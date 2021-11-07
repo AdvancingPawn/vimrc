@@ -1,0 +1,8 @@
+" vim行号设置
+set number
+" 移动鼠标
+"set mouse=a
+" 显示文件名及路径
+set laststatus=2
+" 高亮搜索
+set hlsearch
